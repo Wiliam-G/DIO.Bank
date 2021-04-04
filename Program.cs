@@ -43,7 +43,6 @@ namespace DIO.Bank
             Console.WriteLine("Obrigado por utulizar nossos serviços.");
             Console.WriteLine();
 
-
         }
 
         private static void ListarContas()
